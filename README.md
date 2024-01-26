@@ -9,6 +9,11 @@
 
 # :pushpin: Cursos
 - `Curso ` Bootstrap5: crie uma landing page responsiva
+   - Compreenda a utilização da ferramenta Bootstrap na versão 5
+   - Saiba como aplicar responsividade em imagens e componentes
+   - Aprenda a aplicar temas de cores do Bootstrap em um projeto
+   - Implemente acessibilidade para leitores de tela
+   - Posicione elementos utilizando soluções com Grid e Flexbox do Bootstrap
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` Compreenda a utilização da ferramenta Bootstrap na versão 5. Saiba como aplicar responsividade em imagens e componentes. Aprenda a aplicar temas de cores do Bootstrap em um projeto
