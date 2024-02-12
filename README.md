@@ -1,6 +1,6 @@
 <p align="center"> <img src="http://img.shields.io/static/v1?label=STATUS_GERAL&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/> </p>
 
-# Meteora
+# Meteora - Bootstrap
 App de simulação de um e-commerce dos produtos.
 
 ## 🔨 Funcionalidades do projeto
@@ -20,9 +20,6 @@ Tela de detalhes
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/alura-meteora-bootstrap/assets/19363871/06cfa1b5-670f-4fad-8f88-8fab388c433e)
-
-## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-meteora-bootstrap) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-meteora-bootstrap/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-meteora-bootstrap.git
