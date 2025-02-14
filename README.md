@@ -3,7 +3,7 @@
     Meteora - Bootstrap
     <br />
     <br />
-    <img src="assets/img/image_06.gif" alt="Gif">
+    <img src="assets/img/banner.avif" alt="Banner">
     <br />
   </h1>
 
