@@ -30,7 +30,7 @@ Proporcionar uma base consistente e detalhada que ajude os desenvolvedores a des
 
 ---
 
-` Curso: ` [Alura - Bootstrap5: crie uma landing page responsiva]("https://www.alura.com.br/curso-online-bootstrap5-landing-page-responsiva")
+` Curso: ` Alura - Bootstrap5: crie uma landing page responsiva
 
 ---
 
